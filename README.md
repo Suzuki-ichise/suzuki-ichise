@@ -3,7 +3,7 @@
 Webエンジニア / フリーランス案件募集中
 
 ## 🛠 スキル
-- （例：HTML / CSS / JavaScript / React など）
+- （例：HTML / CSS / JavaScript ）
 
 ## 📦 ポートフォリオ
 | プロジェクト名 | 概要 | 技術 | リンク |
@@ -11,5 +11,5 @@ Webエンジニア / フリーランス案件募集中
 | mysite | （説明） | HTML/CSS | [見る](#) |
 
 ## 📬 連絡先
-- クラウドワークス：（URLを貼る）
-- メール：（任意）
+- クラウドワークス：https://crowdworks.jp/public/employees/6503046
+- メール：marimo.kapibara.0517@icloud.com
