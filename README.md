@@ -1,16 +1,15 @@
-## Hi there 👋
+# Suzuki Ichise
 
-<!--
-**Suzuki-ichise/suzuki-ichise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webエンジニア / フリーランス案件募集中
 
-Here are some ideas to get you started:
+## 🛠 スキル
+- （例：HTML / CSS / JavaScript / React など）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 ポートフォリオ
+| プロジェクト名 | 概要 | 技術 | リンク |
+|---|---|---|---|
+| mysite | （説明） | HTML/CSS | [見る](#) |
+
+## 📬 連絡先
+- クラウドワークス：（URLを貼る）
+- メール：（任意）
