@@ -11,8 +11,9 @@ Webエンジニア / フリーランス案件募集中
 ## 📦 ポートフォリオ
 | プロジェクト名 | 概要 | 技術 | リンク |
 |---|---|---|---|
-| mysite | （説明） | HTML/CSS | [見る](#) |
+| ATHLETE BOOST | スポーツトレーニングサービスLP | HTML/CSS/JS | [見る](https://effulgent-gumdrop-4062de.netlify.app/) |
+| LUMIÈRE | エステサロン向けLP | HTML/CSS/JS | [見る](https://splendid-bombolone-8d6293.netlify.app/) |
+| Fitness Boxing GYM | ジム向け多ページサイト | HTML/CSS/JS | [見る](https://warm-sprite-3308d4.netlify.app/) |
 
 ## 📬 連絡先
 - クラウドワークス：https://crowdworks.jp/public/employees/6503046
-- メール：marimo.kapibara.0517@icloud.com
